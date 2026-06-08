@@ -3,6 +3,7 @@
 Awesome Agents is a curated list of open-source tools and products to build AI agents.
 
 > 🆕 **Featured:** [ClaudeClaw](https://github.com/sbusso/claudeclaw) — Persistent agent orchestrator as a Claude Code plugin. Multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extension system. [Read more →](https://github.com/sbusso/claudeclaw)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agent wallets on Solana. Verify agent reputation before x402 micropayments. Exposes `score_agent` and `preflight_check` as free MCP tools; `get_trust_receipt` is x402-paid.
 
 ## Table of Contents
 
